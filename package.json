@@ -3,7 +3,7 @@
   "version": "13.0.10",
   "description": "Pipedrive REST client for NodeJS",
   "license": "MIT",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "scripts": {
     "build": "babel src -d dist",
     "prepack": "npm run build",
